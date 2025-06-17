@@ -5,6 +5,7 @@ This is a fun challenge where you can submit your own solution to this version o
 ## Leaderboard
 | Name       | Weight | Volume | Value |
 |------------|--------|--------|-------|
+| qrg.csv | 9.83 | 24.89 | 2299.45 |
 | my_sack_2.csv | 7.69 | 7.36 | 485.24 |
 | my_sack_3.csv | 2.40 | 4.25 | 348.25 |
 | my_sack_1.csv | 3.30 | 4.69 | 312.62 |
