@@ -6,6 +6,7 @@ This is a fun challenge where you can submit your own solution to this version o
 | Name       | Weight | Volume | Value |
 |------------|--------|--------|-------|
 | qrg.csv | 9.98 | 24.29 | 2696.14 |
+| jacopo_sack.csv | 9.92 | 25.00 | 2316.46 |
 | pyari_sack.csv | 8.46 | 24.74 | 2170.03 |
 | my_sack_2.csv | 7.69 | 7.36 | 485.24 |
 | my_sack_3.csv | 2.40 | 4.25 | 348.25 |
