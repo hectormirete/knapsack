@@ -5,6 +5,7 @@ This is a fun challenge where you can submit your own solution to this version o
 ## Leaderboard
 | Name       | Weight | Volume | Value |
 |------------|--------|--------|-------|
+| jaume_3.csv | 9.98 | 24.29 | 2696.14 |
 | jaume_2.csv | 9.98 | 24.29 | 2696.14 |
 | pablo_gomis_better_ordering.csv | 9.98 | 24.29 | 2696.14 |
 | qrg.csv | 9.98 | 24.29 | 2696.14 |
