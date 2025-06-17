@@ -15,6 +15,7 @@ Take a look to the [items](data/knapsack_items.csv) file to see the items you ca
 You can select as many items as you want, but you have to respect the following constraints:
 - The total weight of the items in your sack must not exceed 10 kg.
 - The total volume of the items in your sack must not exceed 25 L.
+- You can only use each item once.
 
 The winner will be the sack with the highest value, which is calculated as the sum of the values of the items in the sack.
 
