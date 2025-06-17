@@ -39,7 +39,8 @@ def calculate_sack(sack, items):
                 value *= item["positive_combo_multiplier"]
 
             if item["negative_combo_id"] in sack:
-                value *= item["negative_combo_multiplier"]
+                value *= -item["negative_combo_multiplier"]
+
 
             total_value += value
             total_weight += item["weight"]
