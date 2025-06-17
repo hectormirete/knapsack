@@ -12,6 +12,7 @@ This is a fun challenge where you can submit your own solution to this version o
 | pablo_gomis_sack1.csv | 9.98 | 24.29 | 2696.14 |
 | jacopo_sack.csv | 10.00 | 24.52 | 2693.39 |
 | pyari_sack.csv | 8.46 | 24.74 | 2170.03 |
+| tobi_sh_001.csv | 9.93 | 24.48 | 2132.82 |
 | my_sack_2.csv | 7.69 | 7.36 | 485.24 |
 | my_sack_3.csv | 2.40 | 4.25 | 348.25 |
 | my_sack_1.csv | 3.30 | 4.69 | 312.62 |
