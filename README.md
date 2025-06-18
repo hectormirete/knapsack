@@ -8,11 +8,13 @@ This is a fun challenge where you can submit your own solution to this version o
 | jaume_3.csv | 9.98 | 24.29 | 2696.14 |
 | jaume_2.csv | 9.98 | 24.29 | 2696.14 |
 | pablo_gomis_better_ordering.csv | 9.98 | 24.29 | 2696.14 |
+| pyari_sack_2.csv | 9.98 | 24.29 | 2696.14 |
 | qrg.csv | 9.98 | 24.29 | 2696.14 |
 | jaume_1.csv | 9.98 | 24.29 | 2696.14 |
+| ppedemon_sack.csv | 9.98 | 24.29 | 2696.14 |
 | pablo_gomis_sack1.csv | 9.98 | 24.29 | 2696.14 |
 | jacopo_sack.csv | 10.00 | 24.52 | 2693.39 |
-| ppedemon_sack.csv | 9.68 | 24.12 | 2510.11 |
+| tobi_sh_002.csv | 9.97 | 24.66 | 2505.88 |
 | pyari_sack.csv | 8.46 | 24.74 | 2170.03 |
 | tobi_sh_001.csv | 9.93 | 24.48 | 2132.82 |
 | my_sack_2.csv | 7.69 | 7.36 | 485.24 |
