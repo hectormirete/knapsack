@@ -14,6 +14,7 @@ This is a fun challenge where you can submit your own solution to this version o
 | ppedemon_sack.csv | 9.98 | 24.29 | 2696.14 |
 | pablo_gomis_sack1.csv | 9.98 | 24.29 | 2696.14 |
 | jacopo_sack.csv | 10.00 | 24.52 | 2693.39 |
+| tobi_sh_003.csv | 10.00 | 24.22 | 2684.91 |
 | tobi_sh_002.csv | 9.97 | 24.66 | 2505.88 |
 | pyari_sack.csv | 8.46 | 24.74 | 2170.03 |
 | tobi_sh_001.csv | 9.93 | 24.48 | 2132.82 |
